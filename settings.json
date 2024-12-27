@@ -1,0 +1,23 @@
+{
+    "editor.fontFamily": "JetBrains Mono Regular",
+    "editor.fontSize": 13,
+    "editor.lineHeight": 1.5,
+    "editor.renderWhitespace": "none",
+    "editor.cursorStyle": "line-thin",
+    "workbench.colorTheme": "Dark",
+    "workbench.iconTheme": "symbols",
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "editor.stickyScroll.enabled": false,
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "editor.smoothScrolling": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "workbench.list.smoothScrolling": true,
+    "terminal.integrated.smoothScrolling": true,
+    "editor.cursorBlinking": "smooth",
+    "editor.maxTokenizationLineLength": 19998,
+    "editor.suggestLineHeight": 10,
+    "workbench.sideBar.location": "right",
+    "workbench.editor.limit.value": 1
+}
