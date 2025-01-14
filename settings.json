@@ -1,10 +1,5 @@
 {
-    "http.proxySupport": "off",
-    "terminal.integrated.localEchoLatencyThreshold": -1,
-    "terminal.integrated.localEchoEnabled": "off",
-    "workbench.editorAssociations": {
-        "*.md": "vscode.markdown.preview.editor"
-    },
+
     "workbench.startupEditor": "none",
     "editor.fontFamily": "JetBrains Mono, Menlo, Monaco, Courier New, monospace",
     "editor.fontWeight": "normal",
@@ -20,7 +15,23 @@
     "editor.formatOnSave": true,
     "editor.letterSpacing": 0,
     "debug.console.fontSize": 12,
+        "http.proxySupport": "off",
+    "terminal.integrated.localEchoLatencyThreshold": -1,
+    "terminal.integrated.localEchoEnabled": "off",
+    "workbench.editorAssociations": {
+        "*.md": "vscode.markdown.preview.editor"
+    },
     "window.commandCenter": false,
+    "editor.smoothScrolling": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "solid",
+    "editor.quickSuggestionsDelay": 0,
+    "editor.quickSuggestions": {
+        "other": "on",
+        "comments": "on",
+        "strings": "on"
+    },
+    "editor.cursorStyle": "line",
     "workbench.preferredDarkColorTheme": "Material Theme Ocean",
     "workbench.preferredLightColorTheme": "Monospace Light",
     "workbench.iconTheme": "symbols",
